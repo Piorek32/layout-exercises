@@ -1,7 +1,7 @@
 var HtmlWebpackPlugin = require('html-webpack-plugin');
 var ExtractTextPlugin = require("extract-text-webpack-plugin");
 var path = require("path");
-const bootstrapEntryPoints = require('./webpack.bootstrap.config');
+
 const Webpack = require("webpack");
 const Autoprefixer = require("autoprefixer");
 
