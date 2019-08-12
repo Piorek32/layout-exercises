@@ -1,6 +1,6 @@
 import './app.scss';
 import './scripts/slider.js'
-
+import './scripts/animations.js'
 
 
 
