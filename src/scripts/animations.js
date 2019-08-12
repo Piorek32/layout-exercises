@@ -1,3 +1,5 @@
+import {TweenMax, Power2, TimelineLite} from "gsap/TweenMax";
+
 const topBorder = document.querySelector(".top")
 const rightBorder = document.querySelector(".right")
 const bottomBorder = document.querySelector(".bottom")
